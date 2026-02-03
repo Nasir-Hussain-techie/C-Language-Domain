@@ -1,0 +1,3 @@
+Hello CODTECH!
+This is Task 1 - File Handling in C.
+Appending new line: File handling done successfully!
