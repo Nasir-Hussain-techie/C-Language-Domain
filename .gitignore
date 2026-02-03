@@ -1,0 +1,11 @@
+# Binaries
+*.exe
+*.out
+task1
+task2
+task3
+task4
+
+# OS files
+.DS_Store
+Thumbs.db
